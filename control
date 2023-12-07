@@ -1,0 +1,6 @@
+Package: debiso
+Version: <DEBISO_VERSION>
+Maintainer: Frank Wigger
+Architecture: all
+Description: Program to create debian iso images for headless installation
+Depends: libarchive-tools, syslinux-utils, cpio, genisoimage, coreutils, gettext-base, whois
